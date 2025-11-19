@@ -1,10 +1,15 @@
-- 👋 Hi, I’m @BelkinSD
-- 👀 I’m interested in programming
-- 🌱 I’m currently learning Phyton
-- 💞️ I’m looking to collaborate on full stack development
-- 📫 How to reach me stanislaw.belkin@gmail.com
+Hi, I’m Stanislav 👋
 
-<!---
-BelkinSD/BelkinSD is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I’m moving from industrial automation and B2B engineering into software QA and test automation.
+
+🔍 I’m interested in:
+– web & API testing
+– practical test automation (Python / JS, Selenium / Playwright)
+– reliability of complex, data-driven systems
+
+🧰 Background: 10+ years working with industrial instrumentation, complex projects and stakeholders – now applying the same systematic thinking to software quality.
+
+🌍 Open to remote collaboration.
+
+📫 Contact: hello@sbelkin.dev
+ sbelkin.dev
